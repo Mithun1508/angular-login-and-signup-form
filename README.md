@@ -1,3 +1,3 @@
 # angular-login-and-signup-form
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-login-and-signup-form-uvlrd7)
+![Screenshot 2023-02-19 153301](https://user-images.githubusercontent.com/93249038/219941360-60e3f816-7667-43f4-ad86-4648b3675161.png)
